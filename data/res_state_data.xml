@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- County short codes used by KSH (Central Statistic Office)-->
+<odoo>
+    <record id="BA" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Baranya</field>
+        <field name="code">BA</field>
+    </record>
+    <record id="BÁ" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Bács-Kiskun</field>
+        <field name="code">BK</field>
+    </record>
+    <record id="BÉ" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Békés</field>
+        <field name="code">BÉ</field>
+    </record>
+    <record id="BO" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Borsod-Abaúj-Zemplén</field>
+        <field name="code">BO</field>
+    </record>
+    <record id="BP" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Budapest</field>
+        <field name="code">BP</field>
+    </record>
+    <record id="CS" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Csongrád-Csanád</field>
+        <field name="code">CS</field>
+    </record>
+    <record id="FE" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Fejér</field>
+        <field name="code">FE</field>
+    </record>
+    <record id="GY" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Győr-Moson-Sopron</field>
+        <field name="code">GY</field>
+    </record>
+    <record id="HA" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Hajdú-Bihar</field>
+        <field name="code">HA</field>
+    </record>
+    <record id="HE" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Heves</field>
+        <field name="code">HE</field>
+    </record>
+    <record id="JÁ" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Jász-Nagykun-Szolnok</field>
+        <field name="code">JÁ</field>
+    </record>
+    <record id="KO" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Komárom-Esztergom</field>
+        <field name="code">KO</field>
+    </record>
+    <record id="NÓ" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Nógrád</field>
+        <field name="code">NÓ</field>
+    </record>
+    <record id="PE" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Pest</field>
+        <field name="code">PE</field>
+    </record>
+    <record id="SO" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Somogy</field>
+        <field name="code">SO</field>
+    </record>
+    <record id="SZ" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Szabolcs-Szatmár-Bereg</field>
+        <field name="code">SZ</field>
+    </record>
+    <record id="TO" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Tolna</field>
+        <field name="code">TO</field>
+    </record>
+    <record id="VA" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Vas</field>
+        <field name="code">VA</field>
+    </record>
+    <record id="VE" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Veszprém</field>
+        <field name="code">VE</field>
+    </record>
+    <record id="ZA" model="res.country.state">
+        <field name="country_id" ref="base.hu"/>
+        <field name="name">Zala</field>
+        <field name="code">ZA</field>
+    </record>
+</odoo>
