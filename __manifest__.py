@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Hungarian City database",
+    "name": "Hungarian City Database",
+    "countries": ["hu"],
     "version": "1.0.",
-    "icon": "/l10n_hu_city/static/description/l10n.png",
-    "category": "Accounting/Localizations",
+    # "icon": "",
+    "category": "Localizations",
     "author": "Informatikai Üzleti Megoldások Kft. (Juhász Krisztián)",
     "website": "www.uzletimegoldasok.hu",
     "description": """
@@ -22,17 +23,17 @@ Date: (XLSX; 987 KB, updated/frissítve: 2025.05.27)
         "data/res_city_data.xml",
         "data/res_country_data.xml",
     ],
-    "license": "LGPL-3",
+    "license": "AGPL-3",
     "installable": True,
-    "auto_install": False,
-#    "cloc_exclude": ["**/*"],
+    # "auto_install": False,
+    # "cloc_exclude": ["**/*"],
     "demo": [],
     'images': [
-        'static/description/banner.png',
+        # 'static/description/banner.png',
     ],
     'tags': ['localization', 'hungary', 'configuration'],
 
     # Version requirements
-    'odoo_version': '18.0',
-    'python_version': '>=3.11',
+    # 'odoo_version': '18.0',
+    # 'python_version': '>=3.11',
 }
