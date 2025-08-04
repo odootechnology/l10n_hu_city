@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Hungarian City Database",
-    "countries": ["hu"],
-    "version": "1.0.",
+    "country": "hu",
+    "version": "1.0",
     # "icon": "",
     "category": "Localizations",
     "author": "Informatikai Üzleti Megoldások Kft. (Juhász Krisztián)",
-    "website": "www.uzletimegoldasok.hu",
+    "website": "https://www.uzletimegoldasok.hu",
     "description": """
 Official Hungarian county, city and zip code list  
 This module provides a list of Hungarian counties, cities and their zip codes.
@@ -28,10 +28,10 @@ Date: (XLSX; 987 KB, updated/frissítve: 2025.05.27)
     # "auto_install": False,
     # "cloc_exclude": ["**/*"],
     "demo": [],
-    'images': [
-        # 'static/description/banner.png',
-    ],
-    'tags': ['localization', 'hungary', 'configuration'],
+    # 'images': [
+    #     'static/description/banner.png',
+    # ],
+    # 'tags': ['localization', 'hungary', 'configuration'],
 
     # Version requirements
     # 'odoo_version': '18.0',
